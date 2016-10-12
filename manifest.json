@@ -1,0 +1,7 @@
+{
+  "name": "polymer-starer-app",
+  "short_name": "polymer-starer-app",
+  "description": "Starter kit for Polymer",
+  "start_url": "/",
+  "display": "standalone"
+}
